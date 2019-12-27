@@ -1,0 +1,4 @@
+[submodule "ejemploSubmodulo"]
+	path = ejemploSubmodulo
+	url = https://github.com/sebasPonto/ejemploSubmodulo.git
+	branch = master
